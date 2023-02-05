@@ -116,6 +116,3 @@ while True:
 
   #print the score
   print("Score:", "Player1 =",player1, "Player2 =",player2)
-#
-"""with while loop"""
-
